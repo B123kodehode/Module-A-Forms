@@ -1,0 +1,70 @@
+body {
+    margin-left: 50px;
+    margin-right: 50px;
+    background: grey;
+}
+
+h1 {
+
+    text-align: center;
+    color: aliceblue;
+    text-shadow: rgb(0, 0, 0) 1px 0 10px;
+}
+
+
+#yawn {
+    display: block;
+    align-items: center;
+    image-rendering:pixelated;
+    border: 5px solid rgba(0, 0, 0, 0.39);
+    margin-left: auto;
+    margin-right: auto;
+    
+    }
+
+    .container{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        letter-spacing: 1px;
+
+    }
+
+.gender {
+    
+border: solid rgb(0, 0, 0) 1px;
+padding: 50px;
+color: rgb(255, 255, 255);
+font-weight: bold;
+font-size: x-large;
+text-align: center;
+background-color: rgba(0, 0, 0, 0.158);
+
+
+}
+
+.car {
+    
+    border: solid rgb(0, 0, 0) 1px;
+    padding: 50px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.158);
+
+
+
+}
+
+.vehicle{
+
+    border: solid rgb(0, 0, 0) 1px;
+    padding: 50px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.158);
+}
+
